@@ -1,0 +1,2 @@
+﻿C:\Users\s.ussanov\Desktop\Clickermann v4.13 x64\public-web.cms
+C:\Users\s.ussanov\Desktop\Clickermann v4.13 x64\projects\test_big\Большой тест.cms

@@ -1,0 +1,2 @@
+03.10.2019 14:05:44 Thread _MAIN(0) raise exception 
+03.10.2019 14:15:31 Update check error

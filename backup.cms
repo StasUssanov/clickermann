@@ -1,0 +1,25 @@
+﻿// 03.10.2019
+#name "New Script"
+
+$exit = 0
+
+start:
+WHILE(1)
+   
+   
+   IF(WNDFIND("Доступ к"))
+      LOGWRITE("OK")
+      HALT
+   END_IF
+   
+   
+   //=============================================
+   IF(ISKEYDOWN(#q) = 1)
+      HALT
+   END_IF
+   //=============================================
+   WAITMS(100)
+   GOTO(start)
+END_CYC
+
+
